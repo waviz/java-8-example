@@ -1,1 +1,26 @@
+*.iws
+.settings/
+.classpath
+.project
+.idea/*
+!.idea/codeStyleSettings.xml
 target/
+logs/
+**/target
+*.log
+*.class
+rebel.xml
+webapp/activemq-data/
+.DS_STORE
+*.iml
+**/node_modules
+**/*.rdb
+**/test-output
+.project
+.settings
+.settings/**
+**/.settings
+**/.classpath
+**/.project
+bin/
+Message Input
