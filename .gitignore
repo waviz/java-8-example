@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -13,3 +14,31 @@ buildNumber.properties
 bin/
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+=======
+*.iws
+.settings/
+.classpath
+.project
+.idea/*
+!.idea/codeStyleSettings.xml
+target/
+logs/
+**/target
+*.log
+*.class
+rebel.xml
+webapp/activemq-data/
+.DS_STORE
+*.iml
+**/node_modules
+**/*.rdb
+**/test-output
+.project
+.settings
+.settings/**
+**/.settings
+**/.classpath
+**/.project
+bin/
+Message Input
+>>>>>>> d3927e0f3b2092ed6da07eab12092fb13b31b4a6
